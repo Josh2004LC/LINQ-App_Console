@@ -65,5 +65,14 @@ La aplicación hace uso de **LINQ to XML** para gestionar los datos del archivo 
 
    Esto busca al primer empleado con el ID especificado y devuelve `null` si no existe.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Referencias
+
+- **Documentación sobre filtrado de datos con LINQ**:
+  - [Filtrando datos con LINQ - Microsoft](https://learn.microsoft.com/es-es/dotnet/csharp/linq/standard-query-operators/filtering-data)
+
+- **Referencia completa de LINQ en C#**:
+  - [Referencia de LINQ - Microsoft](https://learn.microsoft.com/es-es/dotnet/api/system.linq?view=net-6.0)
 
 
