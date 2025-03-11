@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empleados>
+  <Empleado>
+    <Id>2</Id>
+    <Nombre>Ana</Nombre>
+    <Edad>28</Edad>
+    <Departamento>RRHH</Departamento>
+    <Salario>51500</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>3</Id>
+    <Nombre>Carlos</Nombre>
+    <Edad>40</Edad>
+    <Departamento>TI</Departamento>
+    <Salario>70000</Salario>
+  </Empleado>
+  <Empleado>
+    <Id>4</Id>
+    <Nombre>Lucía</Nombre>
+    <Edad>32</Edad>
+    <Departamento>Marketing</Departamento>
+    <Salario>51000</Salario>
+  </Empleado>
+</Empleados>
